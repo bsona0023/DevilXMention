@@ -1,8 +1,8 @@
-<h1 align="center"><b> ─「 𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𝗠𝗘𝗡𝗧𝗜𝗢𝗡 」─ </b></h1>
+<h1 align="center"><b> ─「 𝐃𝐄𝐕𝐈𝐋 𝐗 𝗠𝗘𝗡𝗧𝗜𝗢𝗡 」─ </b></h1>
 
 <h4 align="center">BRANDED MENTION A Powerful, Smart And Simple And Smart Mention Bot <br> ... Written With Python and Telethon...</h4>
 
-<p align="center"><a href="https://t.me/BRANDEDKING82"><img src="https://te.legra.ph/file/3b3c01623a1a7b3774571.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/BRANDEDKING82"><img src="https://graph.org/file/ce89f9beeb8207b5b111b.jpg" width="400"></a></p>
 
 <p align="center">
     
