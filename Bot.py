@@ -32,17 +32,17 @@ spam_chats = []
 async def start(event):
     chat_id = event.chat_id
     if not event.is_private:
-        return await event.respond("ɪ ᴀᴍ ᴀʟɪᴠᴇ 🥺")
+        return await event.respond("ɪ ᴀᴍ ᴀʟɪᴠᴇ ʙᴀʙʏ 🥺")
     
     await event.client.send_file(
         event.chat_id,
-        file="https://te.legra.ph/file/c51f9d5400b4d1e2dce09.jpg",
-        caption="━━━━━━━━━━━━━━━━━━━━━━━━\n\n✪ ɪ ᴀᴍ ᴀʟᴇxᴀ ᴛᴏ ᴍᴇɴᴛɪᴏɴ ᴀʟʟ ᴛʜᴇ ɢʀᴏᴜᴘ ᴍᴇᴍʙᴇʀs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ\n✪ ᴛʜᴀɴᴋs ғᴏʀ ᴜsɪɴɢ ʀᴜɴ /help..\n\n┏━━━━━━━━━━━━━━━━━┓\n┣★ ᴏᴡɴᴇʀ    : [ʙʀᴀɴᴅᴇᴅ ʙᴏᴛ](https://t.me/BRANDRD_BOT)\n┣★ ᴜᴘᴅᴀᴛᴇs › : [ʙʀᴀɴᴅᴇᴅ ʜᴇʟᴘ](https://t.me/BRANDED_WORLD)┓\n┣★ ʀᴇᴘᴏ › : [ʙʀᴀɴᴅᴇᴅ ʀᴇᴘᴏ](https://github.com/WCGKING/BrandedXMention)\n┗━━━━━━━━━━━━━━━━━┛\n\n💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ\nᴅᴍ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](https://t.me/BRANDEDKING82) ...\n\n━━━━━━━━━━━━━━━━━━━━━━━━",
+        file="https://graph.org/file/b6bb2a17632ed9fbbb3d2.mp4",
+        caption="━━━━━━━━━━━━━━━━━━━━━━━━\n\n✪ ɪ ᴀᴍ ᴅᴇᴠɪʟ ᴛᴏ ᴍᴇɴᴛɪᴏɴ ᴀʟʟ ᴛʜᴇ ɢʀᴏᴜᴘ ᴍᴇᴍʙᴇʀs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ\n✪ ᴛʜᴀɴᴋs ғᴏʀ ᴜsɪɴɢ ʀᴜɴ /help..\n\n┏━━━━━━━━━━━━━━━━━┓\n┣★ ᴏᴡɴᴇʀ    : [ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ](https://t.me/devilbotsupport)\n┣★ ᴜᴘᴅᴀᴛᴇs › : [ᴅᴇᴠɪʟ'ꜱ ᴜᴘᴅᴀᴛᴇ](https://t.me/devilbots971)┓\n┣★\n┗━━━━━━━━━━━━━━━━━┛\n\n💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ\nᴅᴍ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ][𝙈𝙍 𝘿𝙀𝙑𝙄𝙇](http://t.me/mrdevil12) ...\n\n━━━━━━━━━━━━━━━━━━━━━━━━",
         link_preview=False,
         buttons=[
-            [Button.url("❤️‍🔥 ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ 💫", "https://t.me/Branded_MentionBot?startgroup=true")],
-            [Button.url("❤️‍🔥 ɢʀᴏᴜᴘ 💫", "https://t.me/BRANDED_WORLD"), Button.url("❤️‍🔥 ᴄʜᴀɴɴᴇʟ 💫", "https://t.me/BRANDRD_BOT")],
-            [Button.url("❤️‍🔥 ʜᴇʀᴜᴋᴏ ᴄᴄ 💫", "https://t.me/BRANDED_PAID_CC"), Button.url("❤️‍🔥 BRANDED ❤️‍🔥", "https://t.me/BRANDEDKING82")]
+            [Button.url("😘 ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ʙᴀʙʏ 😘", "https://t.me/devilxmention_bot?startgroup=true")],
+            [Button.url("🔥 ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 🔥", "https://t.me/devilbotsupport"), Button.url("🔥 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ 🔥", "https://t.me/devilbots971")],
+            [Button.url("🥳 ᴄʜᴀᴛ ɢʀᴏᴜᴘ 🥳", "https://t.me/akatsuki976"), Button.url("😈 ᴏɴᴡᴇʀ 😈", "http://t.me/mrdevil12")]
         ]
     )
 
@@ -52,14 +52,14 @@ async def help(event):
     chat_id = event.chat_id
     if not event.is_private:
         return await event.respond("ᴅᴇᴀʀ sᴛᴀʀᴛ ᴍᴇ ɪɴ ᴘᴍ ᴛᴏ ᴜsᴇ ᴛʜɪs ᴄᴏᴍᴍᴀɴғ 🥺")
-    helptext = "✪ ʜᴇʟᴘ ᴍᴇɴᴜ ᴏғ ᴀʟᴇxᴀ ᴍᴇɴᴛɪᴏɴ\n\n✪ ᴄᴏᴍᴍᴀɴᴅ: /mentionall\n✪ ᴄᴏᴍᴍᴀɴᴅ: /cancel ᴛᴏ ᴄᴀɴᴄᴇʟ ɢᴏɪɴɢ ᴏɴ ᴘʀᴏᴄᴇss.\n✪ ᴄᴏᴍᴍᴀɴᴅ /admin ᴛᴏ ᴍᴇɴᴛɪᴏɴ ᴀʟʟ ᴀᴅᴍɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ\n✪ Yᴏᴜ ᴄᴀɴ ᴜsᴇ ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ᴡɪᴛʜ ᴛᴇxᴛ ᴡʜᴀᴛ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴍᴇɴᴛɪᴏɴ ᴏᴛʜᴇʀs.\n✪ `Example: /mentionall Good Morning!`\n✪ Yᴏᴜ ᴄᴀɴ ʏᴏᴜ ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ᴀs ᴀ ʀᴇᴘʟʏ ᴛᴏ ᴀɴʏ ᴍᴇssᴀɢᴇ. Bᴏᴛ ᴡɪʟʟ ᴛᴀɢ ᴜsᴇʀs ᴛᴏ ᴛʜᴀᴛ ʀᴇᴘʟɪᴇᴅ ᴍᴇsssᴀɢᴇ."
+    helptext = "✪ ʜᴇʟᴘ ᴍᴇɴᴜ ᴏғ ᴅᴇᴠɪʟ x ᴍᴇɴᴛɪᴏɴ ᴍᴇɴᴛɪᴏɴ\n\n✪ ᴄᴏᴍᴍᴀɴᴅ: /mentionall\n✪ ᴄᴏᴍᴍᴀɴᴅ: /cancel ᴛᴏ ᴄᴀɴᴄᴇʟ ɢᴏɪɴɢ ᴏɴ ᴘʀᴏᴄᴇss.\n✪ ᴄᴏᴍᴍᴀɴᴅ /admin ᴛᴏ ᴍᴇɴᴛɪᴏɴ ᴀʟʟ ᴀᴅᴍɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ\n✪ Yᴏᴜ ᴄᴀɴ ᴜsᴇ ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ᴡɪᴛʜ ᴛᴇxᴛ ᴡʜᴀᴛ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴍᴇɴᴛɪᴏɴ ᴏᴛʜᴇʀs.\n✪ `Example: /mentionall Good Morning!`\n✪ Yᴏᴜ ᴄᴀɴ ʏᴏᴜ ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ᴀs ᴀ ʀᴇᴘʟʏ ᴛᴏ ᴀɴʏ ᴍᴇssᴀɢᴇ. Bᴏᴛ ᴡɪʟʟ ᴛᴀɢ ᴜsᴇʀs ᴛᴏ ᴛʜᴀᴛ ʀᴇᴘʟɪᴇᴅ ᴍᴇsssᴀɢᴇ."
     await event.reply(
         helptext,
         link_preview=False,
         buttons=(
             [
-                Button.url("❤️‍🔥 ꜱᴜᴘᴘᴏʀᴛ 💫", "https://t.me/BRANDED_WORLD"),
-                Button.url("❤️‍🔥 ʏᴏᴜᴛᴜʙᴇ 💫", "https://youtube.com/@TrickyBranded?si=LiWu6DkLNs4bcZn6"),
+                Button.url("🔥 ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 🔥", "https://t.me/devilbotsupport"),
+                Button.url("🔥 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ 🔥", "https://t.me/devilbots971"),
             ]
         ),
     )
@@ -76,8 +76,8 @@ async def help(event):
         link_preview=False,
         buttons=(
             [
-                Button.url("❤️‍🔥 ꜱᴜᴘᴘᴏʀᴛ 💫", "https://t.me/BRANDED_WORLD"),
-                Button.url("❤️‍🔥 ʏᴏᴜᴛᴜʙᴇ 💫", "https://youtube.com/TrickyBranded"),
+                Button.url("🔥 ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 🔥", "https://t.me/devilbotsupport"),
+                Button.url("🔥 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ 🔥", "https://t.me/devilbots971"),
             ]
         ),
     )
