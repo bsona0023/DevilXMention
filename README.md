@@ -1,6 +1,6 @@
 <h1 align="center"><b> ─「 𝐃𝐄𝐕𝐈𝐋 𝐗 𝗠𝗘𝗡𝗧𝗜𝗢𝗡 」─ </b></h1>
 
-<h4 align="center">BRANDED MENTION A Powerful, Smart And Simple And Smart Mention Bot <br> ... Written With Python and Telethon...</h4>
+<h4 align="center">DEVIL X MENTION A Powerful, Smart And Simple And Smart Mention Bot <br> ... Written With Python and Telethon...</h4>
 
 <p align="center"><a href="https://t.me/BRANDEDKING82"><img src="https://graph.org/file/ce89f9beeb8207b5b111b.jpg" width="400"></a></p>
 
@@ -19,11 +19,11 @@
 <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
-> ❤️‍🔥 𝗧𝗵𝗮𝗻𝗸𝘀 𝘁𝗼 𝗲𝘃𝗲𝗿𝘆𝗼𝗻𝗲 𝗳𝗼𝗿 𝘂𝘀𝗶𝗻𝗴 𝗕𝗿𝗮𝗻𝗱𝗲𝗱𝗠𝗲𝗻𝘁𝗶𝗼𝗻, 𝗧𝗵𝗮𝘁 𝗶𝘀 𝘁𝗵𝗲 𝗴𝗿𝗲𝗮𝘁𝗲𝘀𝘁 𝗽𝗹𝗲𝗮𝘀𝘂𝗿𝗲 𝘄𝗲 𝗵𝗮𝘃𝗲 ! 
+> ❤️‍🔥 𝗧𝗵𝗮𝗻𝗸𝘀 𝘁𝗼 𝗲𝘃𝗲𝗿𝘆𝗼𝗻𝗲 𝗳𝗼𝗿 𝘂𝘀𝗶𝗻𝗴 DEVILX𝗠𝗲𝗻𝘁𝗶𝗼𝗻, 𝗧𝗵𝗮𝘁 𝗶𝘀 𝘁𝗵𝗲 𝗴𝗿𝗲𝗮𝘁𝗲𝘀𝘁 𝗽𝗹𝗲𝗮𝘀𝘂𝗿𝗲 𝘄𝗲 𝗵𝗮𝘃𝗲 ! 
 
-## Avaiilable on Telegram as [@BRANDED SUPPORT](https://t.me/BRANDED_WORLD)
+## Avaiilable on Telegram as [@devilxmention_bot)
 
-> ❤️‍🔥 𝗧𝗵𝗮𝗻𝗸𝘀 𝘁𝗼 𝗲𝘃𝗲𝗿𝘆𝗼𝗻𝗲 𝗳𝗼𝗿 𝘂𝘀𝗶𝗻𝗴 𝗕𝗿𝗮𝗻𝗱𝗲𝗱𝗠𝗲𝗻𝘁𝗶𝗼𝗻, 𝗧𝗵𝗮𝘁 𝗶𝘀 𝘁𝗵𝗲 𝗴𝗿𝗲𝗮𝘁𝗲𝘀𝘁 𝗽𝗹𝗲𝗮𝘀𝘂𝗿𝗲 𝘄𝗲 𝗵𝗮𝘃𝗲 !
+> ❤️‍🔥 𝗧𝗵𝗮𝗻𝗸𝘀 𝘁𝗼 𝗲𝘃𝗲𝗿𝘆𝗼𝗻𝗲 𝗳𝗼𝗿 𝘂𝘀𝗶𝗻𝗴 𝐃𝐄𝐕𝐈𝐋𝐗𝗠𝗲𝗻𝘁𝗶𝗼𝗻, 𝗧𝗵𝗮𝘁 𝗶𝘀 𝘁𝗵𝗲 𝗴𝗿𝗲𝗮𝘁𝗲𝘀𝘁 𝗽𝗹𝗲𝗮𝘀𝘂𝗿𝗲 𝘄𝗲 𝗵𝗮𝘃𝗲 !
 
 ## <p align="center">
  <b>𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</b>
@@ -35,7 +35,7 @@
 
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/WCGKING/BrandedXMention"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
-> ❤️‍🔥 𝗧𝗵𝗮𝗻𝗸𝘀 𝘁𝗼 𝗲𝘃𝗲𝗿𝘆𝗼𝗻𝗲 𝗳𝗼𝗿 𝘂𝘀𝗶𝗻𝗴 𝗕𝗿𝗮𝗻𝗱𝗲𝗱𝗠𝗲𝗻𝘁𝗶𝗼𝗻, 𝗧𝗵𝗮𝘁 𝗶𝘀 𝘁𝗵𝗲 𝗴𝗿𝗲𝗮𝘁𝗲𝘀𝘁 𝗽𝗹𝗲𝗮𝘀𝘂𝗿𝗲 𝘄𝗲 𝗵𝗮𝘃𝗲 !
+> ❤️‍🔥 𝗧𝗵𝗮𝗻𝗸𝘀 𝘁𝗼 𝗲𝘃𝗲𝗿𝘆𝗼𝗻𝗲 𝗳𝗼𝗿 𝘂𝘀𝗶𝗻𝗴 𝐃𝐄𝐕𝐈𝐋𝐗𝗠𝗲𝗻𝘁𝗶𝗼𝗻, 𝗧𝗵𝗮𝘁 𝗶𝘀 𝘁𝗵𝗲 𝗴𝗿𝗲𝗮𝘁𝗲𝘀𝘁 𝗽𝗹𝗲𝗮𝘀𝘂𝗿𝗲 𝘄𝗲 𝗵𝗮𝘃𝗲 !
 
 # ❤️ Support
 <a href="https://t.me/BRANDED_WORLD"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
@@ -47,10 +47,10 @@
 
 ## CREDITS
 
-- [ʙʀᴀɴᴅᴇᴅ ᴋɪɴɢ](https://t.me/BRANDEDKING82)
+- [𝙈𝙍 𝘿𝙀𝙑𝙄𝙇](http://t.me/mrdevil12)
 
-- [ʏᴏᴜᴛᴜʙᴇ](https://www.youtube.com/TrickyBranded)
+- [𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗚𝗥𝗢𝗨𝗣](https://t.me/devilbotsupport)
 
-- [ꜱᴜᴘᴘᴏʀᴛ](https://t.me/BRANDED_PAID_CC)
+- [𝗨𝗣𝗗𝗔𝗧𝗘 𝗖𝗛𝗔𝗡𝗡𝗘𝗟](https://t.me/devilbots971)
 
 
