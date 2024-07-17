@@ -43,6 +43,7 @@ async def start(event):
             [Button.url("😘 ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ʙᴀʙʏ 😘", "https://t.me/devilxmention_bot?startgroup=true")],
             [Button.url("🔥 ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 🔥", "https://t.me/devilbotsupport"), Button.url("🔥 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ 🔥", "https://t.me/devilbots971")],
             [Button.url("🥳 ᴄʜᴀᴛ ɢʀᴏᴜᴘ 🥳", "https://t.me/akatsuki976"), Button.url("😈 ᴏɴᴡᴇʀ 😈", "http://t.me/mrdevil12")]
+            [Button.url("😍 ʀᴇᴘᴏ 😍", "https://graph.org/file/4aba7a36891acb0646775.mp4")],
         ]
     )
 
@@ -83,7 +84,7 @@ async def help(event):
     )
 
 
-@client.on(events.NewMessage(pattern="^/mentionall ?(.*)"))
+@client.on(events.NewMessage(pattern="^/tagall|/all|/mentionall|@all ?(.*)"))
 async def mentionall(event):
     chat_id = event.chat_id
     if event.is_private:
@@ -204,7 +205,7 @@ async def _(event):
         pass
 
 
-@client.on(events.NewMessage(pattern="^/cancel$"))
+@client.on(events.NewMessage(pattern="^/cancel|/end|"))
 async def cancel_spam(event):
     if not event.chat_id in spam_chats:
         return await event.respond("ᴛʜᴇʀᴇ ɪs ɴᴏ ᴘʀᴏᴄᴄᴇss ᴏɴ ɢᴏɪɴɢ...")
