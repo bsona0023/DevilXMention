@@ -1,12 +1,7 @@
-<!DOCTYPE html>
-<html>
-<head>
- 
-𝗧𝘂 𝗬𝗮𝗮𝗿 𝗦𝗮𝗰𝗵 𝗠𝗲 𝗘𝗸 𝗚𝗮𝗻𝗱𝘂 𝗛𝗮𝗶
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=31&duration=4500&pause=1000&color=RED&multiline=true&width=453&height=100&lines=DAYNAMIC+IS+A+GAY)
+# 🤡『 # 𝗚𝗔𝗬 𝗗𝗔𝗬𝗡𝗔𝗠𝗜𝗖 』🤡
+<p align="centre"><img  width="40%" height="60%" img src="https://telegra.ph/file/97f8c15faa85362af1949.jpg" /></p>
 
-</head>
-<body>
- <h1 style="color: #008000; text-align: center;">𝙏𝙀𝙍𝙀𝙎𝙀 𝙅𝘼𝙔𝘿𝘼 𝙂𝘼𝙔 𝙄𝙉𝙎𝘼𝙉𝙈𝙀𝙉𝙀 𝘼𝘼𝙅 𝙏𝘼𝙆 𝙉𝘼𝙃𝙄 𝘿𝙀𝙆𝙃𝘼</h5>
- <p style="font-size: 24px; text-align: center;">dekh betichod tere liye itna code kr  diya aur kya chahiye mera cute bhai aur tu betichod mujhe apna code wala website se allow leke mujhe chutiya banana chahta hai itna achha bhai jaisa friend mila hai tereko bhai ke sath scam krega</h1>
-</body>
-</html
+
+
+_**𝗬𝗢𝗨 𝗞𝗡𝗢𝗪 𝗪𝗛𝗢 𝗠𝗔𝗗𝗘 𝗧𝗛𝗜𝗦 𝗠𝗔𝗗𝗘 𝗕𝗬 [[𝙈𝙍 𝘿𝙀𝙑𝙄𝙇](http://t.me/mrdevil12))**_
