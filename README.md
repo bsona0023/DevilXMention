@@ -1,56 +1,12 @@
-<h1 align="center"><b> ─「 𝐃𝐄𝐕𝐈𝐋 𝐗 𝗠𝗘𝗡𝗧𝗜𝗢𝗡 」─ </b></h1>
+<!DOCTYPE html>
+<html>
+<head>
+ 
+𝗧𝘂 𝗬𝗮𝗮𝗿 𝗦𝗮𝗰𝗵 𝗠𝗲 𝗘𝗸 𝗚𝗮𝗻𝗱𝘂 𝗛𝗮𝗶
 
-<h4 align="center">DEVIL X MENTION A Powerful, Smart And Simple And Smart Mention Bot <br> ... Written With Python and Telethon...</h4>
-
-<p align="center"><a href="https://t.me/BRANDEDKING82"><img src="https://graph.org/file/ce89f9beeb8207b5b111b.jpg" width="400"></a></p>
-
-<p align="center">
-    
-<a href="https://app.codacy.com/manual/WCGKING/BrandedXMention/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
-    
- <a href="https://github.com/WCGKING/BrandedXMention"> <img src="https://img.shields.io/github/repo-size/WCGKING/BrandedXMention?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
-    
- <a href="https://github.com/WCGKING/BrandedXMention/commits/prince"> <img src="https://img.shields.io/github/last-commit/WCGKING/BrandedXMention?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
-   
- <a href="https://github.com/WCGKING/BrandrdXMusic/issues"> <img src="https://img.shields.io/github/issues/WCGKING/BrandedXMention?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
-    
- <a href="https://github.com/WCGKING/BrandedXMention/network/members"> <img src="https://img.shields.io/github/forks/WCGKING/BrandedXMention?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
-    
-<a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
-</p>
-
-> ❤️‍🔥 𝗧𝗵𝗮𝗻𝗸𝘀 𝘁𝗼 𝗲𝘃𝗲𝗿𝘆𝗼𝗻𝗲 𝗳𝗼𝗿 𝘂𝘀𝗶𝗻𝗴 DEVILX𝗠𝗲𝗻𝘁𝗶𝗼𝗻, 𝗧𝗵𝗮𝘁 𝗶𝘀 𝘁𝗵𝗲 𝗴𝗿𝗲𝗮𝘁𝗲𝘀𝘁 𝗽𝗹𝗲𝗮𝘀𝘂𝗿𝗲 𝘄𝗲 𝗵𝗮𝘃𝗲 ! 
-
-## Avaiilable on Telegram as [@devilxmention_bot)
-
-> ❤️‍🔥 𝗧𝗵𝗮𝗻𝗸𝘀 𝘁𝗼 𝗲𝘃𝗲𝗿𝘆𝗼𝗻𝗲 𝗳𝗼𝗿 𝘂𝘀𝗶𝗻𝗴 𝐃𝐄𝐕𝐈𝐋𝐗𝗠𝗲𝗻𝘁𝗶𝗼𝗻, 𝗧𝗵𝗮𝘁 𝗶𝘀 𝘁𝗵𝗲 𝗴𝗿𝗲𝗮𝘁𝗲𝘀𝘁 𝗽𝗹𝗲𝗮𝘀𝘂𝗿𝗲 𝘄𝗲 𝗵𝗮𝘃𝗲 !
-
-## <p align="center">
- <b>𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</b>
- </p>
-
-  <h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
-  </h3>
-
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/WCGKING/BrandedXMention"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
-
-> ❤️‍🔥 𝗧𝗵𝗮𝗻𝗸𝘀 𝘁𝗼 𝗲𝘃𝗲𝗿𝘆𝗼𝗻𝗲 𝗳𝗼𝗿 𝘂𝘀𝗶𝗻𝗴 𝐃𝐄𝐕𝐈𝐋𝐗𝗠𝗲𝗻𝘁𝗶𝗼𝗻, 𝗧𝗵𝗮𝘁 𝗶𝘀 𝘁𝗵𝗲 𝗴𝗿𝗲𝗮𝘁𝗲𝘀𝘁 𝗽𝗹𝗲𝗮𝘀𝘂𝗿𝗲 𝘄𝗲 𝗵𝗮𝘃𝗲 !
-
-# ❤️ Support
-<a href="https://t.me/BRANDED_WORLD"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-
-<a href="https://t.me/BRANDRD_BOT"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
-
-<a href="https://t.me/BRANDED_PAID_CC"><img src="https://img.shields.io/badge/Heroku-Me%20Free cc-blue.svg?logo=telegram"></a>
-
-
-## CREDITS
-
-- [𝙈𝙍 𝘿𝙀𝙑𝙄𝙇](http://t.me/mrdevil12)
-
-- [𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗚𝗥𝗢𝗨𝗣](https://t.me/devilbotsupport)
-
-- [𝗨𝗣𝗗𝗔𝗧𝗘 𝗖𝗛𝗔𝗡𝗡𝗘𝗟](https://t.me/devilbots971)
-
-
+</head>
+<body>
+ <h1 style="color: #008000; text-align: center;">𝙏𝙀𝙍𝙀𝙎𝙀 𝙅𝘼𝙔𝘿𝘼 𝙂𝘼𝙔 𝙄𝙉𝙎𝘼𝙉𝙈𝙀𝙉𝙀 𝘼𝘼𝙅 𝙏𝘼𝙆 𝙉𝘼𝙃𝙄 𝘿𝙀𝙆𝙃𝘼</h5>
+ <p style="font-size: 24px; text-align: center;">dekh betichod tere liye itna code kr  diya aur kya chahiye mera cute bhai aur tu betichod mujhe apna code wala website se allow leke mujhe chutiya banana chahta hai itna achha bhai jaisa friend mila hai tereko bhai ke sath scam krega</h1>
+</body>
+</html
