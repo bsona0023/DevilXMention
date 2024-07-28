@@ -13,5 +13,4 @@ _**𝗬𝗢𝗨 𝗞𝗡𝗢𝗪 𝗪𝗛𝗢 𝗠𝗔𝗗𝗘 𝗧𝗛𝗜𝗦 
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
- <img src="https://readme-typing-svg.herokuapp.com?color=0000FF&width=420&lines=🤡DAYNAMIC+TU+GAY+HAI🤡">
- 
+ <img src="https://readme-typing-svg.herokuapp.com?color=255,255,255&width=420&lines=🤡DAYNAMIC+TU+GAY+HAI🤡">
